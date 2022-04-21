@@ -16,7 +16,7 @@ Instainsane is an Shell Script to perform multi-threaded brute force attack agai
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/instainsane
+git clonehttps://github.com/samerbal/instainsane.py.git
 cd instainsane
 chmod +x instainsane.sh
 sudo ./instainsane.sh
